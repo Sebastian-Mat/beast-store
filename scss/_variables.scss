@@ -1,0 +1,18 @@
+/*     ========== FONTS ==========      */
+@font-face {
+    font-family: HorseMen;
+    src: url("/src/assets/fonts/Horsemen-Regular.otf");
+}
+@font-face {
+    font-family: Barlow;
+    src: url("/src/assets/fonts/BarlowCondensed-Regular.ttf");
+}
+
+/*     ========== COLORS ==========      */
+:root {
+    --red: #F61515;
+    --white: #FFFFFF;
+    --grey: #585858;
+    --light-grey: #E9E9E9;
+    --black: #000000;
+}
